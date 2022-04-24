@@ -1,16 +1,22 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SathamHussainM.SathamHussainM">
 
-<!--
-**SathamHussainM/SathamHussainM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Satham+Hussain...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code><a href="mailto:sathamhussain.m11@gmail.com" title="Gmail"><img width="22"src="https://github.com/SathamHussainM/SathamHussainM/blob/master/icons/Gmail.png"> Gmail</a></code>
+    <code><a href="http://paypal.me/SathamHussainM" title="Gmail"><img width="22"src="https://github.com/SathamHussainM/SathamHussainM/blob/master/icons/PayPal.png"> PayPal</a></code>
+    <code><a href="https://t.me/SathamHussainM" title="Gmail"><img width="22"src="https://github.com/SathamHussainM/SathamHussainM/blob/master/icons/Telegram.png"> Telegram</a></code>
+    <code><a href="https://twitter.com/SathamHussainM0" title="Gmail"><img width="22"src="https://github.com/SathamHussainM/SathamHussainM/blob/master/icons/Twitter.png"> Twitter</a></code>
+</p>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just a beginner and learner in GitHub and Customer Recovery, Rom development
+<p align="center">
+
+![SathamHussainM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathamHussainM&show_icons=true&count_private=true&theme=yeblu)
+
+</p>
