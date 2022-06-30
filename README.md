@@ -19,4 +19,6 @@ Just a beginner and learner in GitHub and Customer Recovery, Rom development
 
 ![SathamHussainM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathamHussainM&show_icons=true&count_private=true&theme=yeblu)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SathamHussainM&theme=soft-green)](https://git.io/streak-stats)
+
 </p>
