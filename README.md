@@ -14,7 +14,7 @@
 </p>
 <br />
 
-Just a beginner and learner in GitHub and Customer Recovery, Rom development
+Just a beginner and learner.....
 <p align="center">
 
 ![SathamHussainM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathamHussainM&show_icons=true&count_private=true&theme=yeblu)
